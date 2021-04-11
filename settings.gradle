@@ -1,0 +1,3 @@
+include ':Greedy'
+include ':app'
+rootProject.name = "GreedyAlgorithm"
